@@ -1,3 +1,4 @@
 print("Goodby world")
 print("exit()")
 print("open_file")
+ptint("finish")
