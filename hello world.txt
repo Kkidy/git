@@ -2,4 +2,6 @@ print("Hello world!;")
 print("Hello everybody!;")
 print("Hello deaê friends!;")
 print("Open_project;")
-ubor o4ka
+print("fatal error Lera spit")
+print("ubor o4ka")
+
